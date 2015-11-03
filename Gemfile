@@ -20,3 +20,4 @@ gem 'shelly-dependencies'
 gem 'openlibrary'
 
 gem 'searchkick'
+gem "mysql2"

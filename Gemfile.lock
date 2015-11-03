@@ -56,6 +56,7 @@ GEM
     mime-types (1.25.1)
     minitest (4.7.5)
     multi_json (1.10.1)
+    mysql2 (0.3.16)
     netrc (0.7.7)
     openlibrary (2.1.3)
       activesupport (~> 4)
@@ -149,6 +150,7 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jquery-rails
   kaminari
+  mysql2
   openlibrary
   pg
   puma
@@ -159,3 +161,6 @@ DEPENDENCIES
   slim-rails
   turbolinks
   uglifier (>= 1.3.0)
+
+BUNDLED WITH
+   1.10.6
